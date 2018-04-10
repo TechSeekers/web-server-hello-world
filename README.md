@@ -1,5 +1,5 @@
 # web-server-hello-world
-Display Hello World in many languages without dependencies
+Web Server Hello World in many languages without dependencies
 
 ## Languages
 - [C](#c)
