@@ -26,4 +26,9 @@ $ go build webserverhelloworld.go
 $ ./webserverhelloworld
 ```
 
+#### Check output from your browser
+
+```
+localhost:8080
+```
 
