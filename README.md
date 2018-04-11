@@ -1,6 +1,8 @@
 # web-server-hello-world
 
-<img src=".github/media/welcome.png"/>
+<div style="text-align:center">
+    <img src=".github/media/welcome.png"/>
+</div>
 
 Display Hello World in many languages without dependencies
 
