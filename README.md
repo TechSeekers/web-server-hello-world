@@ -24,6 +24,8 @@ This repository contain web server hello world programs written in many language
 
 ### Compile and run it 
 
+Source file : [webserverhelloworld.go](golang/webserverhelloworld.go)
+
 #### Windows
 
 ```powershell
@@ -38,4 +40,9 @@ $ go build webserverhelloworld.go
 $ ./webserverhelloworld
 ```
 
+#### Check output from your browser
+
+```
+localhost:8080
+```
 
