@@ -1,6 +1,6 @@
 # web-server-hello-world
 
-<div style="text-align:center">
+<div align="center">
     <img src=".github/media/welcome.png"/>
 </div>
 
