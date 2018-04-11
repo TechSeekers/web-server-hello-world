@@ -10,8 +10,13 @@ This repository contain web server hello world programs written in many language
 
 ## How to contribute
 
-- Find a language that doesn't has web server hello world source in this repository.
-- Open an issue and tell "Add &lt;Language&gt; web server hello world"
+- Find a language that doesn't have `web server hello world` source in this repository.
+- Open an issue and say "Add &lt;Language&gt; web server hello world"
+- Fork the repository in to your github profile
+- Add your source files and update `README.md`
+- Submit a pull request by mentioning the issue you added previously.
+
+Happy coding :rocket:
 
 ## Languages
 - [C](#c)
