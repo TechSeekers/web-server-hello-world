@@ -23,6 +23,7 @@ Happy coding :rocket:
 - [C++](#c++)
 - [golang](#golang)
 - [Javascript](#javascript)
+- [Node.js](#nodejs)
 - [Python](#python)
 
 ## golang
@@ -51,3 +52,24 @@ $ ./webserverhelloworld
 localhost:8080
 ```
 
+## Node.js
+
+Source file : [webserverhelloworld.js](nodejs/webserverhelloworld.js)
+
+#### Windows/Linux
+
+- Navigate to nodejs folder using terminal/cmd and run below command.
+
+```powershell
+node webserverhelloworld.js
+```
+
+#### Check output from your browser
+
+```
+localhost:3000
+```
+
+#### Stop webserver
+
+- press `CTRL+C` in your terminal/CMD
